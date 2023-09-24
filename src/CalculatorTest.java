@@ -1,4 +1,4 @@
-import seminars.first.model.Calculator;
+import models.Calculator;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class CalculatorTest {
